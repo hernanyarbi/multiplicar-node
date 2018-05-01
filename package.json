@@ -1,0 +1,16 @@
+{
+  "name": "03-bases",
+  "version": "0.0.0",
+  "description": "Ejemplo de udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@NorthHills",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.3",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
